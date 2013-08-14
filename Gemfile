@@ -4,5 +4,5 @@ source 'https://rubygems.org'
 gemspec
 
 #gem 'ember-source', '1.0.0.rc7'
-#gem 'handlebars-source', '~> 1.0.12'
+gem 'handlebars-source', '1.0.12'
 #gem 'therubyrhino', platform: :jruby
