@@ -1,0 +1,40 @@
+PATH
+  remote: /Volumes/Sites/barber
+  specs:
+    barber (0.4.2)
+      ember-source (= 1.0.0.rc7)
+      execjs
+      handlebars-source (= 1.0.12)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    appraisal (0.5.2)
+      bundler
+      rake
+    ember-source (1.0.0.rc7)
+      handlebars-source (= 1.0.12)
+    execjs (1.4.0)
+      multi_json (~> 1.0)
+    handlebars-source (1.0.12)
+    metaclass (0.0.1)
+    mocha (0.14.0)
+      metaclass (~> 0.0.1)
+    multi_json (1.7.9)
+    rake (10.1.0)
+    simplecov (0.7.1)
+      multi_json (~> 1.0)
+      simplecov-html (~> 0.7.1)
+    simplecov-html (0.7.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  appraisal
+  barber!
+  ember-source (= 1.0.0.rc7)
+  handlebars-source (= 1.0.12)
+  mocha
+  rake
+  simplecov
