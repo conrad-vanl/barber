@@ -12,3 +12,8 @@ appraise "ember-rc4" do
   # Uses handlebars rc4
   gem "ember-source", "1.0.0.rc4"
 end
+
+appraise "ember-rc7" do
+  # uses handlebars 1
+  gem "ember-source", "1.0.0.rc7"
+end
